@@ -48,7 +48,13 @@ You need to move 3,000 figs 1,000 nautical miles from Figopia to Capertown. Your
 
 What is highest number of figs you can get to Capertown?
 
-> ## ANSWER: 0
+> ## ANSWER:
+- take 1000 half way. pay 500 tax. leave 500
+- take another 1000 half way. pay 500 tax. leave 500.  have 1000 total in middle
+- take last 1000 half way. pay 500 tax. leave 500. total 1500 in middle.
+- take 1000 from middle half way.  pay 250 tax. leave 750.
+- take last 500 from middle half way. pay 250 tax. leave 250. total 1000. 3/4's way.
+- take last 1000 the last 250 nm's. pay 250 tax. get 750 to Capertown
 
 
 ## Question Six
