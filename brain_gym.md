@@ -48,14 +48,19 @@ You need to move 3,000 figs 1,000 nautical miles from Figopia to Capertown. Your
 
 What is highest number of figs you can get to Capertown?
 
+> ## ANSWER: 0
+
 
 ## Question Six
 
 Question: A surgeon named Hal and a bus driver named Al are both in love with the same woman named Paige. Al needs to go for a long trip of 10 days. Before he left he gave Paige 10 apples. Why?
 
+> ## ANSWER: An apple a day keeps the doctor away.
 
 ## Question Seven
 
 Question: A young woman is attending her mother's funeral. While there, she meets a man she has never seen before and falls in love immediately. After the funeral she tries to find him but cannot. Several days later she kills her sister.
 
 Why does she kill her sister?
+
+> ## ANSWER: She killed her sister in hopes that the man would be at the funeral. Some people say this riddle is a test of a psychopath. If you answer it correctly, you could be one.
