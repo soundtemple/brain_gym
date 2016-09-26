@@ -12,16 +12,22 @@ Make a new github repository and Push it!
 ## Question One
 You stand at a fork in the road. Next to each of the two forks, there stands a guard. You know the following things: First that one path leads to paradise, the other leads to Death. You cannot distinguish between the two paths. You also know that one of the two guards always tells the truth and the other always lies. You have permission to ask one guard one question to discover which path leads to paradise. What one question would you ask to guarantee you take the path to paradise?
 
+> ## ANSWER:  Ask one guard "will you tell me the truth"
+
 
 ## Question Two
 A man walks into an art gallery and concentrates on one picture in particular. The museum curator notices this and asks the man why he is so interested in that one painting. The man replies, "Brothers and sisters have I none, but that man's father is my father's son."
 
 Who is in the painting?
 
+> ## ANSWER:  himself
+
 :neckbeard:
 
 ## Question Three
 Name four days of the week that start with the letter "t"?
+
+> ## ANSWER:  Tuesday, Tirsdag, Thursday, Torsdag
 
 :hamburger: :cocktail: :beer:
 
@@ -29,6 +35,12 @@ Name four days of the week that start with the letter "t"?
 A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
 
 :chicken: :wolf: :corn:
+
+> ## ANSWER:  
+- take chicken
+- take corn & return with chicken
+- take fox leave chicken
+- get chicken
 
 ## Question Five
 
