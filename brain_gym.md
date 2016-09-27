@@ -12,7 +12,7 @@ Make a new github repository and Push it!
 ## Question One
 You stand at a fork in the road. Next to each of the two forks, there stands a guard. You know the following things: First that one path leads to paradise, the other leads to Death. You cannot distinguish between the two paths. You also know that one of the two guards always tells the truth and the other always lies. You have permission to ask one guard one question to discover which path leads to paradise. What one question would you ask to guarantee you take the path to paradise?
 
-> ## ANSWER:  Ask one guard "will you tell me the truth"
+> ## ANSWER: Ask one of the gaurds 'Which door would the other guard say leads to paradise?'1 If you ask the truthful one he will say the lying guard would say the wrong door. If you ask the lying guard he would say the truthful gaurd would pick the wrong door as well (since he is lying). So no matter what you could choose the door opposite of what they say and end up in paradise.
 
 
 ## Question Two
